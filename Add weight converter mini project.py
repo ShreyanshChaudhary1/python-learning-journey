@@ -1,4 +1,4 @@
-# mini project - weight convert karo kg <-> lbs
+p# mini project - weight convert karo kg <-> lbs
 weight = float(input("Enter weight: "))
 unit = input("kg or lbs?: ")
 
