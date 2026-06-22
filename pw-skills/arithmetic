@@ -1,0 +1,33 @@
+a=10
+
+b=25
+
+c=30
+
+#Addition
+
+print("Addition: ",a+b)
+
+#Subtraction
+
+print("Subraction: ",b-a)
+
+#Multiplication
+
+print("Multiplication: ",a*b)
+
+#Division
+
+print("Division: ",b/a)
+
+#Modulus
+
+print("Modulus: ",b%a)
+
+#Exponent
+
+print("Exponent: ",a**2)
+
+#Floor Devision
+
+print("Floor Division: ",b//a)
